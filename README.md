@@ -1,6 +1,8 @@
 # nltk-novel-exploration
 
-<q>"The true path to enlightenment and self-discovery lies not in blindly following established doctrines or seeking external validation, but in the personal journey of exploration, self-experience, and embracing the interconnectedness of all existence." </q>
+<img src="https://www.storytel.com/co/es/books/siddhartha-1543647" alt="Siddharta" width="500" height="600">
+
+<q>The true path to enlightenment and self-discovery lies not in blindly following established doctrines or seeking external validation, but in the personal journey of exploration, self-experience, and embracing the interconnectedness of all existence. </q>
 
 In this notebook it is explore the novel  "Siddhartha" by Hermann Hesse using nltk
 
@@ -41,4 +43,5 @@ aborious life only to help them , to teach them ! Even with him , even with you 
 ´´´{'neg': 0.099, 'neu': 0.76, 'pos': 0.141, 'compound': 1.0}´´´
 
 <p> Acording to this the novel wold be neutral a 76% of the time negative a 9.9% and positive a 14.1%  </p>
+
 
