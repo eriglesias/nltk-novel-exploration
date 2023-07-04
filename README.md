@@ -1,10 +1,10 @@
-# nltk-novel-exploration
+<h2> nltk-novel-exploration </h2>
 
-<img src="https://www.storytel.com/co/es/books/siddhartha-1543647" alt="Siddharta" width="500" height="600">
+>The true path to enlightenment and self-discovery lies not in blindly following established doctrines or seeking external validation, but in the personal journey of exploration, self-experience, and embracing the interconnectedness of all existence.
 
-<q>The true path to enlightenment and self-discovery lies not in blindly following established doctrines or seeking external validation, but in the personal journey of exploration, self-experience, and embracing the interconnectedness of all existence. </q>
+<img src="https://northstonebcn.com/wp-content/uploads/2018/05/Siddharta-Gautama-buda-1-600x414.jpg"> 
 
-In this notebook it is explore the novel  "Siddhartha" by Hermann Hesse using nltk
+In this notebook it is explored the novel  "Siddhartha" by Hermann Hesse using **NLTK**
 
 Some highlights from the notebook:
 
