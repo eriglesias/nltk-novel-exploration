@@ -44,4 +44,4 @@ aborious life only to help them , to teach them ! Even with him , even with you 
 
 <p> Acording to this the novel wold be neutral a 76% of the time negative a 9.9% and positive a 14.1%  </p>
 
-
+<img src="average_sentiments_nltk_siddharta.png" alt="sentiment analysis graph" width="500" height="500">
